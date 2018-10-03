@@ -1,0 +1,10 @@
+﻿  Driver.cpp
+c:\users\oesch\documents\gtc\fall2017\c++ ii\programs\final\airlinereservation\airlinereservation\driver.cpp(609): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\fall2017\c++ ii\programs\final\airlinereservation\airlinereservation\driver.cpp(791): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\fall2017\c++ ii\programs\final\airlinereservation\airlinereservation\driver.cpp(875): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\fall2017\c++ ii\programs\final\airlinereservation\airlinereservation\driver.cpp(880): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\fall2017\c++ ii\programs\final\airlinereservation\airlinereservation\driver.cpp(892): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\fall2017\c++ ii\programs\final\airlinereservation\airlinereservation\driver.cpp(1103): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\fall2017\c++ ii\programs\final\airlinereservation\airlinereservation\driver.cpp(787): warning C4715: 'convertDay': not all control paths return a value
+  AirlineReservation.vcxproj -> C:\Users\Oesch\Documents\GTC\fall2017\C++ II\Programs\FINAL\AirlineReservation\Debug\AirlineReservation.exe
+  AirlineReservation.vcxproj -> C:\Users\Oesch\Documents\GTC\fall2017\C++ II\Programs\FINAL\AirlineReservation\Debug\AirlineReservation.pdb (Partial PDB)
